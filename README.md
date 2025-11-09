@@ -34,4 +34,5 @@
 
 ### Linked List
 206. Reverse Linked List -- Memorize  
-328. Odd Even Linked List -- Memorize. Condition check: currEven(only one node left) and currEven.next (one 2 nodes left)
+328. Odd Even Linked List -- Memorize. Condition check: currEven(only one node left) and currEven.next (one 2 nodes left)  
+2095. Delete the Middle Node of a Linked List  -- Solve it in first go. Try understand deeply  
