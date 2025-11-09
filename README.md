@@ -33,4 +33,5 @@
 875. Koko Eating Bananas -- Memorize it
 
 ### Linked List
-206. Reverse Linked List -- Memorize
+206. Reverse Linked List -- Memorize  
+328. Odd Even Linked List -- Memorize. Condition check: currEven(only one node left) and currEven.next (one 2 nodes left)
