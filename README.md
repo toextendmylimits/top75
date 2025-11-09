@@ -12,3 +12,4 @@
 
 ### DFS
 236 Lowest Common Ancestor of a Binary Tree -- Memorize
+104 Maximum Depth of Binary Tree -- Quick look
