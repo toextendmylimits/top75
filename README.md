@@ -2,4 +2,5 @@
 
 ## 11-28-2025
 
-283 Move Zeroes  Memorize this
+283 Move Zeroes  Memorize this  
+392 Is Sequence Memorize as well  
