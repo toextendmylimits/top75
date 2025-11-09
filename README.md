@@ -19,15 +19,18 @@
 374. Guess Number Higher or Lower
 162. Find Peak Element -- Memorize. Beware neighbouring elements don't equal 
 
-## Array/String
+### Array/String
 1768 Merge Strings Alternately -- Check again  
 345 Reverse Vowels of a String -- Memorize. Use list to convert string to array/list.  
 151. Reverse Words in a String -- Memorize  
 238. Product of Array Except Self -- Memorize
 
-## Sliding Window
+### Sliding Window
 643. Maximum Average Subarray I -- Memorize it
 1004. Max Consecutive Ones III -- Memorize it
 1456. Maximum Number of Vowels in a Substring of Given Length -- Memorize it
 1493. Longest Subarray of 1's After Deleting One Element -- Memorize it
 875. Koko Eating Bananas -- Memorize it
+
+### Linked List
+206. Reverse Linked List -- Memorize
