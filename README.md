@@ -16,7 +16,8 @@
 
 ### Binary Search Tree
 700. Search in a Binary Search Tree -- Memorize  
-374. Guess Number Higher or Lower  
+374. Guess Number Higher or Lower
+162. Find Peak Element -- Memorize. Beware neighbouring elements don't equal 
 
 ## Array/String
 1768 Merge Strings Alternately -- Check again  
