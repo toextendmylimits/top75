@@ -15,7 +15,8 @@
 104 Maximum Depth of Binary Tree -- Quick look 
 
 ### Binary Search Tree
-700. Search in a Binary Search Tree -- Memorize
+700. Search in a Binary Search Tree -- Memorize  
+374. Guess Number Higher or Lower  
 
 ## Array/String
 1768 Merge Strings Alternately -- Check again  
