@@ -16,4 +16,5 @@
 
 ## Array
 1768 Merge Strings Alternately -- Check again  
-345 Reverse Vowels of a String -- Memorize. Use list to convert string to array/list.
+345 Reverse Vowels of a String -- Memorize. Use list to convert string to array/list.  
+151. Reverse Words in a String -- Memorize
