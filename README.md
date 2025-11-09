@@ -30,3 +30,4 @@
 1004. Max Consecutive Ones III -- Memorize it
 1456. Maximum Number of Vowels in a Substring of Given Length -- Memorize it
 1493. Longest Subarray of 1's After Deleting One Element -- Memorize it
+875. Koko Eating Bananas -- Memorize it
