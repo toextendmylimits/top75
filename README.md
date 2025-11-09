@@ -2,4 +2,4 @@
 
 ## 11-28-2025
 
-283 Move Zeroes  
+283 Move Zeroes  Memorize this
