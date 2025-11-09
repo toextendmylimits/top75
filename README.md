@@ -22,3 +22,4 @@
 
 ## Sliding Window
 643. Maximum Average Subarray I -- Memorize it
+1004. Max Consecutive Ones III -- Memorize it
