@@ -14,6 +14,9 @@
 236 Lowest Common Ancestor of a Binary Tree -- Memorize  
 104 Maximum Depth of Binary Tree -- Quick look 
 
+### Binary Search Tree
+700. Search in a Binary Search Tree -- Memorize
+
 ## Array/String
 1768 Merge Strings Alternately -- Check again  
 345 Reverse Vowels of a String -- Memorize. Use list to convert string to array/list.  
